@@ -6,10 +6,10 @@ var fs = require('fs')
 var arrayOfItems;
 
 // UPDATE WITH YOUR LOCATION REFERENCE FROM STEP 4
-let locationRef = 'sydney'
+let locationRef = 'Wrexham'
 
 // UPDATE WITH ITEMS YOU WANT TO SEARCH FOR
-let searchTerms = ['jeep', 'iphone']
+let searchTerms = ['Guitar', 'Electric Guitar']
 
 const nodemailer = require('nodemailer');
 
